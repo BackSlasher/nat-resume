@@ -1,12 +1,16 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Languages
+  description: English, Russian, Hebrew, Korean
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Open Source Research (OSINT)
+  description: Legal, academic, real estate, IP and financial databases worldwide
+
+- skill: Data Analysis
+  description: SQL, Excel, SPSS
+
+- skill: Data Visualization
+  description: Tableau, Visio, Power Point
+
+- skill: Social Media Analysis
+  description: Buzilla, Crimson Hexagon
