@@ -1,13 +1,18 @@
 # Degree
 
-- degree: M.A, Public Policy,
+- degree: M.A, Public Policy
   uni: KDI School of Public Policy and Management in Seoul, South Korea
-  year: 2014-2016
-  # awards:
-  #  - award: Summa Cumme Laude graduate
-  summary: Specialization in Political Economy and Innovation Studies
+  year: 2014 &mdash; 2016
+  awards:
+   - award: Korean Government Scholarship Program (KGSP) recipient
+  summary: Specialization in Political Economy and Innovation Studies. GPA 3.51 (91.1%)
+
+- degree: Korean Language Studies
+  uni: Keimyung University, South Korea
+  year: 2012 &mdash; 2014
+  summary: Intensive language course as a condition of full scholarship for M.A from the government of South Korea. Certified TOPIK Level 3 by the Korean Ministry of Education.
 
 - degree: B.A, International Relations
   uni: Hebrew University of Jerusalem
-  year: 2007-2010
+  year: 2007 &mdash; 2010
   summary: South Asia Studies

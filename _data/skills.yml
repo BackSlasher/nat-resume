@@ -6,11 +6,17 @@
 - skill: Open Source Research (OSINT)
   description: Legal, academic, real estate, IP and financial databases worldwide
 
+- skill: Cyber Threat Intelligence (CTI)
+  description: Cybersecurity analysis, threat assessment, customer briefings
+
+- skill: WEBINT / HUMINT
+  description: Web intelligence gathering, human intelligence techniques
+
 - skill: Data Analysis
   description: SQL, Excel, SPSS
 
 - skill: Data Visualization
-  description: Tableau, Visio, Power Point
+  description: Tableau, Visio, PowerPoint
 
 - skill: Social Media Analysis
   description: Buzilla, Crimson Hexagon
